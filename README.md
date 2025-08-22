@@ -5,7 +5,7 @@ A front-end web app for copying input that is typed into an input field.
 
 **Features:**
 
-With a click of a button, you can copy to clipboard your input text.
+With a click of a button, you can copy your input text and paste it anywhere.
 
 **Technologies Used:**
 
