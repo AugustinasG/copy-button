@@ -19,6 +19,5 @@ With a click of a button, you can copy your input text and paste it anywhere.
 2. Open `index.html` in your browser.
 
 **Live Demo:**
-
-
+https://augustinasg.github.io/copy-button/
 
